@@ -1,4 +1,4 @@
-const SERVER = 'http://178.62.30.63:7799'
+const SERVER = 'https://dndndl.gq'
 
 textarea = document.getElementById("prompt")
 
