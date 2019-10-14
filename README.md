@@ -11,3 +11,13 @@ The model is OpenAI's GPT-2 (117M), fine-tuned on D&D 5e magic item descriptions
 ## Examples
 
 See cherry-picked samples in `examples.txt`.
+
+## FAQs
+
+**Why's it taking so long?**
+
+It's running a 117M-parameter model, give it a hot second. Also I can't afford a better server.
+
+**I want one that generates <creatures, spells, places...>**
+
+Get me the data and let's talk.
