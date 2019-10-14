@@ -18,6 +18,10 @@ See cherry-picked samples in `examples.txt`.
 
 It's running a 117M-parameter model, give it a hot second. Also I can't afford a better server.
 
+**Does it work on mobile?**
+
+This isn't a frequently asked question, but I just thought you should know: yes, it autocompletes on `ENTER` as well as `TAB`.
+
 **I want one that generates <creatures, spells, places...>**
 
 Get me the data and let's talk.
