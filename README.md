@@ -10,7 +10,7 @@ The model is OpenAI's GPT-2 (117M), fine-tuned on D&D 5e magic item descriptions
 
 ## Examples
 
-See cherry-picked samples in `examples.txt`.
+See cherry-picked samples in `examples.md`.
 
 ## FAQs
 
