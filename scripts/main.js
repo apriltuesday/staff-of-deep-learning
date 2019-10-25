@@ -22,10 +22,12 @@ const request = async () => {
     .then(text => {
         textarea.value = text
         textarea.disabled = false
+        textarea.focus()
     })
     .catch(error => {
         textarea.value = "Sadness."
         textarea.disabled = false
+        textarea.focus()
     })
 }
 
